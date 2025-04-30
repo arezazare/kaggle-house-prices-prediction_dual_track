@@ -12,9 +12,9 @@ A fully structured machine learning pipeline was developed to predict house sale
 - ✅ Dual prediction strategy: log-target submission + raw-target model  
 - ✅ Final leaderboard submission with Ridge + XGBoost model blending
 
-🎯 **Final Kaggle Scores:**  
-- 🧪 Advanced Regression Techniques → `0.12885` RMSE (log) — **Rank: 1130 / 4711**  
-- 📘 Kaggle Learn Users → `14556.14` RMSE (raw) — **Rank: 525 / 6639**
+🎯 **Current Kaggle Scores (First Try):**  
+- 🧪 Advanced Regression Techniques → `0.12885` RMSE (log-transformed target) — **Rank: 1130 / 4711 teams**  
+- 📘 Kaggle Learn Users → `14556.14` RMSE (raw target) — **Rank: 525 / 6639 teams**
 
 ---
 
